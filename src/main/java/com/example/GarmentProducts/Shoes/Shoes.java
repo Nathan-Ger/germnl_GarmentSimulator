@@ -1,4 +1,4 @@
-package com.example;
+package com.example.GarmentProducts.Shoes;
 
 /** interface Shoes
  * @author NathanaelGermain

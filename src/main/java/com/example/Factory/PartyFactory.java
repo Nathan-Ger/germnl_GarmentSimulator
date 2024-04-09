@@ -1,4 +1,11 @@
-package com.example;
+package com.example.Factory;
+
+import com.example.GarmentProducts.Pants.Pants;
+import com.example.GarmentProducts.Pants.PartyPants;
+import com.example.GarmentProducts.Shoes.PartyShoes;
+import com.example.GarmentProducts.Shoes.Shoes;
+import com.example.GarmentProducts.Tops.PartyTops;
+import com.example.GarmentProducts.Tops.Tops;
 
 /** PartyFactory implements GarmentFactory
  * @author NathanaelGermain

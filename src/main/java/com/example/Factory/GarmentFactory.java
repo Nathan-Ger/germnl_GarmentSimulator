@@ -1,4 +1,8 @@
-package com.example;
+package com.example.Factory;
+
+import com.example.GarmentProducts.Pants.Pants;
+import com.example.GarmentProducts.Shoes.Shoes;
+import com.example.GarmentProducts.Tops.Tops;
 
 /** interface GarmentFactory
  * @author NathanaelGermain
